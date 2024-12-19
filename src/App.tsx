@@ -144,7 +144,7 @@ const App = () => {
   const endCall = () => vapi.stop();
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-500 to-indigo-50 flex flex-col items-center justify-center p-4"
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-50 flex flex-col items-center justify-center p-4"
     style={{
       backgroundImage: 'url("https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=1920&q=80")',
       backgroundColor: 'rgba(255, 255, 255, 0.9)',
